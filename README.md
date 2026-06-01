@@ -37,3 +37,13 @@ http://127.0.0.1:5000
 
 ## Project Purpose
 This project helps students identify fake internship scams using AI-based risk analysis and company website checking.
+
+## Screenshots
+
+### Home Page
+<img width="957" height="419" alt="homepage" src="https://github.com/user-attachments/assets/0a96ff23-ea94-477c-b3e0-f06ea6f724d9" />
+
+### Result Page
+<img width="952" height="412" alt="result-page" src="https://github.com/user-attachments/assets/a7794cdf-ce68-4f8a-be7f-fe600cde384a" />
+
+
